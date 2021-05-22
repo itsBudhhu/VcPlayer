@@ -45,9 +45,10 @@ Get STRING_NAME from here:
 - `/admincache` - Refresh admin list
 
 ## SUPPORTER
-- [![D3VIL RAHUL](https://t.me/D3VIL_RAHUL)]
-- [![NK MAURYA](https://t.me/Maurya_bhai)]
-
+- D3VIL_RAHUL
+- ANSHIKA MAURYA
+- NK MAURYA
+- D3VIL SAURABH
 
 ## Requirements
 

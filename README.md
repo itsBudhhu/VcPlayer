@@ -44,6 +44,11 @@ Get STRING_NAME from here:
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
 
+## SUPPORTER
+- [![D3VIL RAHUL](https://t.me/D3VIL_RAHUL)]
+- [![NK MAURYA](https://t.me/Maurya_bhai)]
+
+
 ## Requirements
 
 - FFmpeg
